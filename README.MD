@@ -24,7 +24,7 @@ Este projeto realiza a coleta automática de cotações atualizadas para **Dóla
 
 📦 Instalação
     🔁 Clone o repositório
-        git clone https://github.com/Romulomrs/CotacaoDolar.git
+        git clone https://github.com/vinioff/BI---Cota-o.git
         cd CotacaoDolar
     🧰 Instale as dependências com o Poetry (opcional, recomendado para testes manuais) Ideal para rodar o script manualmente em um ambiente isolado.
         poetry install
