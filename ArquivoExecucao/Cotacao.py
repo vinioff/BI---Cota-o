@@ -1,9 +1,9 @@
-import requests
+import requests 
 import pandas as pd
 from datetime import datetime
 
 # Caminho do arquivo de log
-log_file = "C:/Users/RômuloMsr/Rômulo/Projetos/CotacaoDolar/ArquivoExecucao/execution_log.txt"
+log_file = "C:\Users\Marcola\Documents\BI---Cota-o\ArquivoExecucao\execution_log.txt"
 
 # Função para adicionar mensagens ao log
 def log_message(message):
@@ -56,7 +56,7 @@ novas_linhas = pd.DataFrame([{
 }])
 
 # Caminho para o arquivo Excel onde as cotações serão salvas
-arquivo = "C:/Users/RômuloMsr/Rômulo/Projetos/CotacaoDolar/ArquivoExcel/Cotações.xlsx"
+arquivo = "C:\Users\Marcola\Documents\BI---Cota-o\ArquivoExceCotações.xlsx"
 
 # Tentando carregar o arquivo Excel e adicionar os dados
 try:
