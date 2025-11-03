@@ -1,0 +1,136 @@
+2025-11-03 17:11:59.117028 - === INÍCIO DA EXECUÇÃO ===
+2025-11-03 17:11:59.117901 - Fazendo requisição para a API...
+2025-11-03 17:11:59.928392 - API respondou com sucesso
+2025-11-03 17:11:59.929094 - Cotações - Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:11:59.931451 - Processando arquivo Excel: C:\Users\Marcola\Documents\BI---Cota-o\Cotações.xlsx
+2025-11-03 17:11:59.932136 - Criando novo arquivo Excel
+2025-11-03 17:12:00.383568 - Arquivo Excel salvo com sucesso
+2025-11-03 17:12:00.384246 - === EXECUÇÃO CONCLUÍDA COM SUCESSO ===
+2025-11-03 17:12:54.726573 - === INÍCIO DA EXECUÇÃO ===
+2025-11-03 17:12:54.729349 - Fazendo requisição para a API...
+2025-11-03 17:12:55.529337 - API respondou com sucesso
+2025-11-03 17:12:55.530087 - Cotações - Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:12:55.532087 - Processando arquivo Excel: C:\Users\Marcola\Documents\BI---Cota-o\Cotações.xlsx
+2025-11-03 17:12:55.929973 - Dados adicionados ao arquivo existente
+2025-11-03 17:12:55.952639 - Arquivo Excel salvo com sucesso
+2025-11-03 17:12:55.953341 - === EXECUÇÃO CONCLUÍDA COM SUCESSO ===
+2025-11-03 17:13:53.864947 - === INÍCIO DA EXECUÇÃO ===
+2025-11-03 17:13:53.865685 - Fazendo requisição para a API...
+2025-11-03 17:13:54.710877 - API respondou com sucesso
+2025-11-03 17:13:54.711695 - Cotações - Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:13:54.714280 - Processando arquivo Excel: C:\Users\Marcola\Documents\BI---Cota-o\Cotações.xlsx
+2025-11-03 17:13:55.135676 - Dados adicionados ao arquivo existente
+2025-11-03 17:13:55.164180 - Arquivo Excel salvo com sucesso
+2025-11-03 17:13:55.164989 - === EXECUÇÃO CONCLUÍDA COM SUCESSO ===
+2025-11-03 17:14:08.182823 - === INÍCIO DA EXECUÇÃO ===
+2025-11-03 17:14:08.183642 - Fazendo requisição para a API...
+2025-11-03 17:14:08.967400 - API respondou com sucesso
+2025-11-03 17:14:08.968129 - Cotações - Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:14:08.970037 - Processando arquivo Excel: C:\Users\Marcola\Documents\BI---Cota-o\Cotações.xlsx
+2025-11-03 17:14:09.372029 - Dados adicionados ao arquivo existente
+2025-11-03 17:14:09.396678 - Arquivo Excel salvo com sucesso
+2025-11-03 17:14:09.397357 - === EXECUÇÃO CONCLUÍDA COM SUCESSO ===
+2025-11-03 17:15:11.779762 - === INÍCIO DA EXECUÇÃO ===
+2025-11-03 17:15:11.780548 - Fazendo requisição para a API...
+2025-11-03 17:15:12.567762 - API respondou com sucesso
+2025-11-03 17:15:12.568615 - Cotações - Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:15:12.570554 - Processando arquivo Excel: C:\Users\Marcola\Documents\BI---Cota-o\Cotações.xlsx
+2025-11-03 17:15:12.968780 - Dados adicionados ao arquivo existente
+2025-11-03 17:15:12.994049 - Arquivo Excel salvo com sucesso
+2025-11-03 17:15:12.994730 - === EXECUÇÃO CONCLUÍDA COM SUCESSO ===
+2025-11-03 17:19:03 - === INÍCIO DA EXECUÇÃO ===
+2025-11-03 17:19:03 - Fazendo requisição para a API...
+2025-11-03 17:19:04 - API respondeu com sucesso
+2025-11-03 17:19:04 - Cotações - Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:19:04 - Dados adicionados ao arquivo existente
+2025-11-03 17:19:04 - Arquivo Excel salvo com sucesso
+2025-11-03 17:19:04 - === EXECUÇÃO CONCLUÍDA COM SUCESSO ===
+2025-11-03 17:19:37 - === INÍCIO DA EXECUÇÃO ===
+2025-11-03 17:19:37 - Fazendo requisição para a API...
+2025-11-03 17:19:38 - API respondeu com sucesso
+2025-11-03 17:19:38 - Cotações - Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:19:38 - Dados adicionados ao arquivo existente
+2025-11-03 17:19:38 - ERRO: [Errno 13] Permission denied: 'C:\\Users\\Marcola\\Documents\\BI---Cota-o\\ArquivoExcel\\Cotações.xlsx'
+2025-11-03 17:26:09 - === INÍCIO DA EXECUÇÃO ===
+2025-11-03 17:26:09 - Fazendo requisição para a API...
+2025-11-03 17:26:10 - API respondeu com sucesso
+2025-11-03 17:26:10 - Cotações - Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:26:11 - Dados adicionados ao arquivo existente
+2025-11-03 17:26:11 - ❌ ERRO ao salvar Excel: [Errno 13] Permission denied: 'C:\\Users\\Marcola\\Documents\\BI---Cota-o\\ArquivoExcel\\Cotações.xlsx'
+2025-11-03 17:26:11 - ❌ ERRO CRÍTICO: [Errno 13] Permission denied: 'C:\\Users\\Marcola\\Documents\\BI---Cota-o\\ArquivoExcel\\Cotações.xlsx'
+2025-11-03 17:26:11 - Traceback: Traceback (most recent call last):
+  File "C:\Users\Marcola\Documents\BI---Cota-o\ArquivoExecucao\Cotacao.py", line 91, in <module>
+    tabela_final.to_excel(arquivo_excel, index=False)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Marcola\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Marcola\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\core\generic.py", line 2439, in to_excel
+    formatter.write(
+    ~~~~~~~~~~~~~~~^
+        excel_writer,
+        ^^^^^^^^^^^^^
+    ...<6 lines>...
+        engine_kwargs=engine_kwargs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Marcola\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\io\formats\excel.py", line 943, in write
+    writer = ExcelWriter(
+        writer,
+    ...<2 lines>...
+        engine_kwargs=engine_kwargs,
+    )
+  File "C:\Users\Marcola\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 61, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        path,
+        ^^^^^
+    ...<3 lines>...
+        engine_kwargs=engine_kwargs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Marcola\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\io\excel\_base.py", line 1246, in __init__
+    self._handles = get_handle(
+                    ~~~~~~~~~~^
+        path, mode, storage_options=storage_options, is_text=False
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Marcola\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\io\common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\Marcola\\Documents\\BI---Cota-o\\ArquivoExcel\\Cotações.xlsx'
+
+2025-11-03 17:26:27.861224 - === INÍCIO DA EXECUÇÃO ===
+2025-11-03 17:26:27.862012 - Fazendo requisição para a API...
+2025-11-03 17:26:28.651096 - API respondou com sucesso
+2025-11-03 17:26:28.651939 - Cotações - Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:26:28.653894 - Processando arquivo Excel: C:\Users\Marcola\Documents\BI---Cota-o\Cotações.xlsx
+2025-11-03 17:26:28.654631 - Criando novo arquivo Excel
+2025-11-03 17:26:29.044737 - Arquivo Excel salvo com sucesso
+2025-11-03 17:26:29.045416 - === EXECUÇÃO CONCLUÍDA COM SUCESSO ===
+2025-11-03 17:30:22.857573 - Início do script de cotações.
+2025-11-03 17:30:22.858317 - Iniciando requisição da API...
+2025-11-03 17:30:23.665882 - Requisição bem-sucedida!
+2025-11-03 17:30:23.666639 - Cotações obtidas: Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:30:23.668799 - Tentando carregar o arquivo Excel: C:\Users\Marcola\Documents\BI---Cota-o\ArquivoExcel\Cotações.xlsx
+2025-11-03 17:30:24.057027 - Arquivo Excel carregado com sucesso.
+2025-11-03 17:30:24.059429 - Novas linhas adicionadas à tabela existente.
+2025-11-03 17:30:24.083715 - Arquivo Excel salvo com sucesso em C:\Users\Marcola\Documents\BI---Cota-o\ArquivoExcel\Cotações.xlsx
+2025-11-03 17:30:24.084330 - Execução do script concluída com sucesso!
+2025-11-03 17:31:05.291734 - Início do script de cotações.
+2025-11-03 17:31:05.292559 - Iniciando requisição da API...
+2025-11-03 17:31:06.083777 - Requisição bem-sucedida!
+2025-11-03 17:31:06.084766 - Cotações obtidas: Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:31:06.087227 - Tentando carregar o arquivo Excel: C:\Users\Marcola\Documents\BI---Cota-o\ArquivoExcel\Cotações.xlsx
+2025-11-03 17:31:06.089058 - Arquivo não encontrado. Criando um novo arquivo com as cotações.
+2025-11-03 17:31:06.486868 - Arquivo Excel salvo com sucesso em C:\Users\Marcola\Documents\BI---Cota-o\ArquivoExcel\Cotações.xlsx
+2025-11-03 17:31:06.487541 - Execução do script concluída com sucesso!
+2025-11-03 17:34:07.481809 - Início do script de cotações.
+2025-11-03 17:34:07.482617 - Iniciando requisição da API...
+2025-11-03 17:34:08.293923 - Requisição bem-sucedida!
+2025-11-03 17:34:08.294815 - Cotações obtidas: Dólar: 5.3494, Euro: 6.15764, Bitcoin: 575826.0, Libra: 7.02505
+2025-11-03 17:34:08.297113 - Tentando carregar o arquivo Excel: C:\Users\Marcola\Documents\BI---Cota-o\ArquivoExcel\Cotações.xlsx
+2025-11-03 17:34:08.685513 - Arquivo Excel carregado com sucesso.
+2025-11-03 17:34:08.687841 - Novas linhas adicionadas à tabela existente.
+2025-11-03 17:34:08.693151 - Erro ao salvar o arquivo Excel: [Errno 13] Permission denied: 'C:\\Users\\Marcola\\Documents\\BI---Cota-o\\ArquivoExcel\\Cotações.xlsx'
